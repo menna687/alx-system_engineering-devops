@@ -1,2 +1,2 @@
-0-current_working_directory: Used to display the present working directory (file we are standing in)
+0-current_working_directory: Used to display the present working directory (file we are standing in)   
 1-listit: Display the contents list of the current directory
